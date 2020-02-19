@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="539752cd-9e54-4f3b-a504-67df43059d1e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Y1Do8KHqOiRJtxkkG4ITvpGAEy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.HelloJava">
+    <configuration name="HelloJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloJava" />
+      <module name="Chapter01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="Chapter01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloJava" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="539752cd-9e54-4f3b-a504-67df43059d1e" name="Default Changelist" comment="" />
+      <created>1582101378539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582101378539</updated>
+      <workItem from="1582101379732" duration="686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="581" y="251" width="816" height="593" key="FileChooserDialogImpl" timestamp="1582101998197">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="581" y="251" width="816" height="593" key="FileChooserDialogImpl/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582101998197" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1582102064870">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582102064870" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1582102064870">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582102064870" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1582102064870">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582102064870" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1582102064870">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582102064870" />
+    <state x="479" y="117" width="1024" height="853" key="SettingsEditor" timestamp="1582102016608">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="479" y="117" width="1024" height="853" key="SettingsEditor/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582102016608" />
+    <state x="299" y="144" width="1380" height="807" key="new project wizard" timestamp="1582102012437">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="299" y="144" width="1380" height="807" key="new project wizard/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582102012437" />
+  </component>
+</project>
