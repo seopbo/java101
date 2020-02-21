@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="539752cd-9e54-4f3b-a504-67df43059d1e" name="Default Changelist" comment="" />
+    <list default="true" id="539752cd-9e54-4f3b-a504-67df43059d1e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -25,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -32,25 +50,49 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.HelloJava">
-    <configuration name="HelloJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloJava" />
-      <module name="Chapter01" />
+  <component name="RunManager" selected="Application.Operators">
+    <configuration name="ExMyIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExMyIntro" />
+      <module name="Chapter02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
-      <module name="Chapter01" />
+    <configuration name="ExScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExScore" />
+      <module name="Chapter02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators" />
+      <module name="Chapter02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeConversionCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TypeConversionCasting" />
+      <module name="Chapter02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables" />
+      <module name="Chapter02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloJava" />
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.Operators" />
+        <item itemvalue="Application.Variables" />
+        <item itemvalue="Application.TypeConversionCasting" />
+        <item itemvalue="Application.ExScore" />
+        <item itemvalue="Application.ExMyIntro" />
       </list>
     </recent_temporary>
   </component>
@@ -65,6 +107,8 @@
       <option name="presentableId" value="Default" />
       <updated>1582101378539</updated>
       <workItem from="1582101379732" duration="686000" />
+      <workItem from="1582209286313" duration="1593000" />
+      <workItem from="1582243216416" duration="5519000" />
     </task>
     <servers />
   </component>
@@ -72,30 +116,54 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1027" y="209" key="#Project_Structure" timestamp="1582209930802">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="1027" y="209" key="#Project_Structure/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582209930802" />
     <state x="581" y="251" width="816" height="593" key="FileChooserDialogImpl" timestamp="1582101998197">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="581" y="251" width="816" height="593" key="FileChooserDialogImpl/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582101998197" />
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1582102064870">
+    <state width="880" height="278" key="GridCell.Tab.0.bottom" timestamp="1582250384900">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582102064870" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1582102064870">
+    <state width="880" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582250384900" />
+    <state width="880" height="278" key="GridCell.Tab.0.center" timestamp="1582250384899">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582102064870" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1582102064870">
+    <state width="880" height="278" key="GridCell.Tab.0.center/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582250384899" />
+    <state width="880" height="278" key="GridCell.Tab.0.left" timestamp="1582250384899">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582102064870" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1582102064870">
+    <state width="880" height="278" key="GridCell.Tab.0.left/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582250384899" />
+    <state width="880" height="278" key="GridCell.Tab.0.right" timestamp="1582250384899">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582102064870" />
+    <state width="880" height="278" key="GridCell.Tab.0.right/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582250384899" />
+    <state width="880" height="343" key="GridCell.Tab.1.bottom" timestamp="1582250384891">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="880" height="343" key="GridCell.Tab.1.bottom/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582250384891" />
+    <state width="880" height="343" key="GridCell.Tab.1.center" timestamp="1582250384891">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="880" height="343" key="GridCell.Tab.1.center/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582250384891" />
+    <state width="880" height="343" key="GridCell.Tab.1.left" timestamp="1582250384891">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="880" height="343" key="GridCell.Tab.1.left/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582250384891" />
+    <state width="880" height="343" key="GridCell.Tab.1.right" timestamp="1582250384891">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="880" height="343" key="GridCell.Tab.1.right/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582250384891" />
     <state x="479" y="117" width="1024" height="853" key="SettingsEditor" timestamp="1582102016608">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="479" y="117" width="1024" height="853" key="SettingsEditor/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582102016608" />
+    <state x="653" y="361" key="com.intellij.ide.util.TipDialog" timestamp="1582250687516">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="653" y="361" key="com.intellij.ide.util.TipDialog/67.27.1853.1052/1920.0.600.960@67.27.1853.1052" timestamp="1582250687516" />
     <state x="299" y="144" width="1380" height="807" key="new project wizard" timestamp="1582102012437">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
