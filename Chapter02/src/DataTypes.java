@@ -1,4 +1,5 @@
-public class DataTypes {
+public class
+DataTypes {
     public static void main(String[] args){
 
         // primitive data type: boolean, int, long, double
