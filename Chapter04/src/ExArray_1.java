@@ -1,4 +1,4 @@
-public class ExArray {
+public class ExArray_1 {
     public static void main(String[] args) {
         int[] intArray = new int[30];
 
