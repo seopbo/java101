@@ -26,6 +26,26 @@ public class ShapePrinter {
             System.out.println();
         }
     }
+
+    public void printFloydsPyramid(int height) {
+        int maxInteger = height * (height + 1) / 2;
+        int digits = Integer.toString(maxInteger).length();
+
+        int i = 1;
+        for (int j = 1; j <= height; j++){
+            int maxIntegerOfRow = j * (j + 1) / 2;
+            while (i <= maxIntegerOfRow){
+                int numBlank = digits - Integer.toString(i).length();
+                String blank = "";
+                for (int k = 0; k < numBlank; k++){
+                    blank = blank + " ";
+                }
+                System.out.printf(blank + "%d ", i);
+                i++;
+            }
+            System.out.println();
+        }
+    }
 }
 
 
