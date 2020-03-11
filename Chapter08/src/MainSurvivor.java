@@ -1,8 +1,31 @@
 import java.util.ArrayList;
 
 public class MainSurvivor {
-    public static int getSurvivingIndex(int n, int k) {
+    public static int getSurvivingIndex (int n, int k) {
+        ArrayList<Integer> integerArrayList = new ArrayList<>();
 
+        for (int i = 1; i <= n; i++){
+            integerArrayList.add(i);
+        }
+
+
+        int index = 0;
+
+        while (true) {
+            if (integerArrayList.size() == 1) {
+                return integerArrayList.get(0);
+            }
+
+            for (int j = 0; j < k - 1; j++){
+                index++;
+            }
+
+            if (index > (integerArrayList.size() - 1)){
+                index = index % integerArrayList.size();
+            }
+
+            System.out.printf("%d번 군사가 죽습니다.\n", integerArrayList.remove(index));
+        }
     }
 
 
