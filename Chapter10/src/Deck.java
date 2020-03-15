@@ -1,23 +1,23 @@
 import java.util.ArrayList;
 import java.util.Random;
 
-public class Deck {
-    private ArrayList<Card> cards;
+public class Deck<T extends Card> {
+    private ArrayList<T> cards;
 
     public Deck() {
-        cards = new ArrayList<Card>();
+        cards = new ArrayList<T>();
     }
 
-    public void addCard(Card card) {
+    public void addCard(T card) {
         cards.add(card);
     }
 
-    public ArrayList<Card> getCards() {
+    public ArrayList<T> getCards() {
         return cards;
     }
 
     public void print() {
-        for (Card card : cards) {
+        for (T card : cards) {
             System.out.println(card.toString());
         }
     }
@@ -27,7 +27,7 @@ public class Deck {
 
         for (int i = 0; i < cards.size(); i++) {
             int randIndex = random.nextInt(cards.size());
-            Card temp = cards.get(i);
+            T temp = cards.get(i);
             cards.set(i, cards.get(randIndex));
             cards.set(randIndex, temp);
         }

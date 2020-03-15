@@ -1,18 +1,18 @@
-public class BlackjackHand extends Deck {
+public class BlackjackHand extends Deck<BlackjackCard> {
 
     public int getValue () {
         int value = 0;
-        for (Card card: this.getCards()) {
-            BlackjackCard blackjackCard = (BlackjackCard) card;
-            if (blackjackCard.isAce()) {
-                if (value + blackjackCard.getValue() > 21) {
-                    value += blackjackCard.rankNumber;
+        for (BlackjackCard card: this.getCards()) {
+//            BlackjackCard blackjackCard = (BlackjackCard) card;
+            if (card.isAce()) {
+                if (value + card.getValue() > 21) {
+                    value += card.rankNumber;
                 } else {
-                    value += blackjackCard.getValue();
+                    value += card.getValue();
                 }
 
             } else {
-                value += blackjackCard.getValue();
+                value += card.getValue();
             }
         }
         return value;
