@@ -1,4 +1,4 @@
-public class BlackjackDriver {
+public class BlackjackCardDriver {
     public static void main(String[] args) {
         BlackjackCard card1 = new BlackjackCard(1, 1);
         BlackjackCard card2 = new BlackjackCard(2, 6);
