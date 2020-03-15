@@ -1,4 +1,4 @@
-public class MainPokeGo {
+public class PokeGoDriver {
     public static void main(String[] args) {
         PokeBag pokeBag = new PokeBag();
 

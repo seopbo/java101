@@ -1,4 +1,4 @@
-public class MainCard {
+public class CardDriver {
     public static void main(String[] args) {
         // 52장 스탠다드 카드 덱 생성
         Deck standardDeck = new Deck();

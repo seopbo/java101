@@ -1,4 +1,4 @@
-public class MainGrade {
+public class GradeDriver {
     public static void main(String[] args) {
         GradeCalculator gradeCalc = new GradeCalculator("김신의", 4.0, 100);
 

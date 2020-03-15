@@ -1,4 +1,4 @@
-public class MainWordDictionary {
+public class WordDictionaryDriver {
     public static void main(String[] args) {
         WordDictionary dictionary = new WordDictionary();
         dictionary.addWord("Movie", "영화");

@@ -1,4 +1,4 @@
-public class MainGreatestDifferenceFinder {
+public class GreatestDifferenceFinderDriver {
     public static void main(String[] args) {
         GreatestDifferenceFinder finder = new GreatestDifferenceFinder();
 

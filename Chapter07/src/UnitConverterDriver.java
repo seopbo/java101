@@ -1,4 +1,4 @@
-public class MainUnitConverter {
+public class UnitConverterDriver {
     public static void main(String[] args) {
             System.out.format("35 lb -> %.2f kg\n", UnitConverter.toKilograms(35));
             System.out.format("62 kg -> %.2f lb\n", UnitConverter.toPounds(62));

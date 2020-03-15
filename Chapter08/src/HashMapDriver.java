@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class MainHashMap {
+public class HashMapDriver {
     public static void main(String[] args) {
         HashMap<String, Poketmon> pokedex = new HashMap<>();
         pokedex.put("피카츄", new Poketmon("피카츄"));

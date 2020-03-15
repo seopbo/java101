@@ -1,4 +1,4 @@
-public class MainCodeBox {
+public class CodeBoxDriver {
     public static void main(String[] args) {
         // Theater 생성
         Theater t = new Theater(5, 9);

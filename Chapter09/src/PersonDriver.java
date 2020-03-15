@@ -1,4 +1,4 @@
-public class MainPerson {
+public class PersonDriver {
     public static void main(String[] args) {
         Person person = new Person("신의" , "김");
 

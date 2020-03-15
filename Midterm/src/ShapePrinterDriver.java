@@ -1,4 +1,4 @@
-public class MainShapePrinter {
+public class ShapePrinterDriver {
     public static void main(String[] args) {
         ShapePrinter printer = new ShapePrinter();
 

@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class MainSurvivor {
+public class SurvivorDriver {
     public static int getSurvivingIndex (int n, int k) {
         ArrayList<Integer> integerArrayList = new ArrayList<>();
 

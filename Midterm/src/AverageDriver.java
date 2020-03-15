@@ -1,4 +1,4 @@
-public class MainAverage {
+public class AverageDriver {
     public static void main(String[] args) {
         AverageFinder finder = new AverageFinder();
 

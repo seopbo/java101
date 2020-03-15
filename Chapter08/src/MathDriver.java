@@ -1,7 +1,7 @@
 import java.lang.Math;
 import java.util.Random;
 
-public class MainMath {
+public class MathDriver {
     public static void main(String[] args) {
         // 절대값
         System.out.println(Math.abs(-10));

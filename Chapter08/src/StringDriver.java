@@ -1,4 +1,4 @@
-public class MainString {
+public class StringDriver {
     public static void main(java.lang.String[] args) {
         char[] data = {'a', 'B', 'c'};
         String myString_1 = "aBc";
