@@ -42,6 +42,7 @@
 3. [Wrapper Class (deprecated)]()
 4. [ArrayList](https://github.com/aisolab/java101/wiki/08-4.-ArrayList)
 5. [HashMap](https://github.com/aisolab/java101/wiki/08-5.-HashMap)
+## 자바 중급개념
 ### Chapter09. 상속
 1. [상속](https://github.com/aisolab/java101/wiki/09-1.-%EC%83%81%EC%86%8D)
 2. [super](https://github.com/aisolab/java101/wiki/09-2.-super)
